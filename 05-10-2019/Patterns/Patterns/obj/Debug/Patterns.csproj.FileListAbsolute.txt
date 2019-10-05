@@ -1,0 +1,6 @@
+C:\Users\C LOKESH\source\repos\Patterns\Patterns\bin\Debug\Patterns.exe.config
+C:\Users\C LOKESH\source\repos\Patterns\Patterns\bin\Debug\Patterns.exe
+C:\Users\C LOKESH\source\repos\Patterns\Patterns\bin\Debug\Patterns.pdb
+C:\Users\C LOKESH\source\repos\Patterns\Patterns\obj\Debug\Patterns.csprojAssemblyReference.cache
+C:\Users\C LOKESH\source\repos\Patterns\Patterns\obj\Debug\Patterns.exe
+C:\Users\C LOKESH\source\repos\Patterns\Patterns\obj\Debug\Patterns.pdb
