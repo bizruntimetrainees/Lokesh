@@ -1,0 +1,6 @@
+C:\Users\C LOKESH\source\repos\Oops\Oops\bin\Debug\Oops.exe.config
+C:\Users\C LOKESH\source\repos\Oops\Oops\bin\Debug\Oops.exe
+C:\Users\C LOKESH\source\repos\Oops\Oops\bin\Debug\Oops.pdb
+C:\Users\C LOKESH\source\repos\Oops\Oops\obj\Debug\Oops.csprojAssemblyReference.cache
+C:\Users\C LOKESH\source\repos\Oops\Oops\obj\Debug\Oops.exe
+C:\Users\C LOKESH\source\repos\Oops\Oops\obj\Debug\Oops.pdb
