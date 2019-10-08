@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Practice3
+namespace Exception
 {
-    class Class1
+    class UserDefinedException
     {
     }
 }
