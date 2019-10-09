@@ -1,0 +1,6 @@
+C:\Users\C LOKESH\source\repos\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\C LOKESH\source\repos\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\C LOKESH\source\repos\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\C LOKESH\source\repos\Strings\Strings\obj\Debug\Strings.csprojAssemblyReference.cache
+C:\Users\C LOKESH\source\repos\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\C LOKESH\source\repos\Strings\Strings\obj\Debug\Strings.pdb
