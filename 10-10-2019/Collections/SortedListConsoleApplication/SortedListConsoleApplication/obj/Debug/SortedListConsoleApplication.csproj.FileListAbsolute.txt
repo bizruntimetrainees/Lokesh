@@ -1,0 +1,6 @@
+C:\Users\C LOKESH\source\repos\SortedListConsoleApplication\SortedListConsoleApplication\bin\Debug\SortedListConsoleApplication.exe.config
+C:\Users\C LOKESH\source\repos\SortedListConsoleApplication\SortedListConsoleApplication\bin\Debug\SortedListConsoleApplication.exe
+C:\Users\C LOKESH\source\repos\SortedListConsoleApplication\SortedListConsoleApplication\bin\Debug\SortedListConsoleApplication.pdb
+C:\Users\C LOKESH\source\repos\SortedListConsoleApplication\SortedListConsoleApplication\obj\Debug\SortedListConsoleApplication.csprojAssemblyReference.cache
+C:\Users\C LOKESH\source\repos\SortedListConsoleApplication\SortedListConsoleApplication\obj\Debug\SortedListConsoleApplication.exe
+C:\Users\C LOKESH\source\repos\SortedListConsoleApplication\SortedListConsoleApplication\obj\Debug\SortedListConsoleApplication.pdb
