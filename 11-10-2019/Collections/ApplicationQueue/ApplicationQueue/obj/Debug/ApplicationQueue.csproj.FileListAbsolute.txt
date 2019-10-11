@@ -1,0 +1,6 @@
+C:\Users\C LOKESH\source\repos\ApplicationQueue\ApplicationQueue\obj\Debug\ApplicationQueue.csprojAssemblyReference.cache
+C:\Users\C LOKESH\source\repos\ApplicationQueue\ApplicationQueue\bin\Debug\ApplicationQueue.exe.config
+C:\Users\C LOKESH\source\repos\ApplicationQueue\ApplicationQueue\bin\Debug\ApplicationQueue.exe
+C:\Users\C LOKESH\source\repos\ApplicationQueue\ApplicationQueue\bin\Debug\ApplicationQueue.pdb
+C:\Users\C LOKESH\source\repos\ApplicationQueue\ApplicationQueue\obj\Debug\ApplicationQueue.exe
+C:\Users\C LOKESH\source\repos\ApplicationQueue\ApplicationQueue\obj\Debug\ApplicationQueue.pdb

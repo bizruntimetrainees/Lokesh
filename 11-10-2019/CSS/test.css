@@ -1,0 +1,29 @@
+title{
+    color: red;
+    font-family: fantasy;
+
+}
+
+h1{
+    color: rgb(89, 0, 255);
+    text-decoration-line: underline;
+    
+
+    
+    
+}
+pre{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: snow;
+
+}
+body{
+    background-image: url("247776.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-position-x: center;
+    background-repeat: no-repeat;
+
+    
+}

@@ -1,0 +1,6 @@
+C:\Users\C LOKESH\source\repos\ApplicationDictionary\ApplicationDictionary\obj\Debug\ApplicationDictionary.csprojAssemblyReference.cache
+C:\Users\C LOKESH\source\repos\ApplicationDictionary\ApplicationDictionary\bin\Debug\ApplicationDictionary.exe.config
+C:\Users\C LOKESH\source\repos\ApplicationDictionary\ApplicationDictionary\bin\Debug\ApplicationDictionary.exe
+C:\Users\C LOKESH\source\repos\ApplicationDictionary\ApplicationDictionary\bin\Debug\ApplicationDictionary.pdb
+C:\Users\C LOKESH\source\repos\ApplicationDictionary\ApplicationDictionary\obj\Debug\ApplicationDictionary.exe
+C:\Users\C LOKESH\source\repos\ApplicationDictionary\ApplicationDictionary\obj\Debug\ApplicationDictionary.pdb

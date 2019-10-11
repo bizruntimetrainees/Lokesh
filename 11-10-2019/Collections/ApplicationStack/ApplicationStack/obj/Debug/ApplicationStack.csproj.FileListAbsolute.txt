@@ -1,0 +1,6 @@
+C:\Users\C LOKESH\source\repos\ApplicationStack\ApplicationStack\bin\Debug\ApplicationStack.exe.config
+C:\Users\C LOKESH\source\repos\ApplicationStack\ApplicationStack\bin\Debug\ApplicationStack.exe
+C:\Users\C LOKESH\source\repos\ApplicationStack\ApplicationStack\bin\Debug\ApplicationStack.pdb
+C:\Users\C LOKESH\source\repos\ApplicationStack\ApplicationStack\obj\Debug\ApplicationStack.csprojAssemblyReference.cache
+C:\Users\C LOKESH\source\repos\ApplicationStack\ApplicationStack\obj\Debug\ApplicationStack.exe
+C:\Users\C LOKESH\source\repos\ApplicationStack\ApplicationStack\obj\Debug\ApplicationStack.pdb
