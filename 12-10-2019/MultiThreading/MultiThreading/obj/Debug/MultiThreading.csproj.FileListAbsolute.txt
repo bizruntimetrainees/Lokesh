@@ -1,0 +1,6 @@
+C:\Users\C LOKESH\source\repos\MultiThreading\MultiThreading\bin\Debug\MultiThreading.exe.config
+C:\Users\C LOKESH\source\repos\MultiThreading\MultiThreading\bin\Debug\MultiThreading.exe
+C:\Users\C LOKESH\source\repos\MultiThreading\MultiThreading\bin\Debug\MultiThreading.pdb
+C:\Users\C LOKESH\source\repos\MultiThreading\MultiThreading\obj\Debug\MultiThreading.csprojAssemblyReference.cache
+C:\Users\C LOKESH\source\repos\MultiThreading\MultiThreading\obj\Debug\MultiThreading.exe
+C:\Users\C LOKESH\source\repos\MultiThreading\MultiThreading\obj\Debug\MultiThreading.pdb
