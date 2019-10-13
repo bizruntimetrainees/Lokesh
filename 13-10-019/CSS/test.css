@@ -1,0 +1,73 @@
+title{
+    color: red;
+    font-family: fantasy;
+
+}
+
+h1{
+    color: rgb(89, 0, 255);
+    text-decoration-line: underline;   
+    text-align: center;
+    text-transform: uppercase;
+    padding-block: 20px;
+    width: 260px;
+    background: brown;
+}
+h2{
+    color: rgb(89, 0, 255);
+    text-decoration-line: underline;   
+    text-align: center;
+    text-decoration: rosybrown;
+    text-decoration-line: line-through;
+    text-decoration-color: springgreen;
+}
+pre{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: snow;
+    text-indent: 100px;
+    word-spacing: 10px;
+    letter-spacing: 1px;
+    line-height: 30px;
+
+    border-style: dotted;
+    border-width: 5px;
+    border-color: cyan;
+
+   
+
+
+}
+ul {
+    list-style-type: square;
+    color: lavender;
+    list-style-position: inside;
+    
+    
+}
+ol {
+    list-style-type: upper-roman;
+    color: lawngreen;
+    list-style-position: inside;
+    list-style-type: upper-alpha;
+}
+
+body{
+    background-image: url("247776.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-position-x: center;
+    background-repeat: no-repeat;
+
+
+    margin-left: 10px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+    outline-style: groove;
+    outline-color: darkgrey;
+    outline-width: 5px;
+    
+}
+
