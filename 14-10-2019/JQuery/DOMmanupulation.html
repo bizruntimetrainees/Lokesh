@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DOM Malupulation</title>
+    <script src="jquery.js"></script>
+</head>
+<body>
+    <div>
+            <p id="p1"></p>
+            <p id="p2"></p>
+            <pre id="pre1"></pre>
+            <pre id="pre2"></pre>
+            
+    </div>
+    <script>
+        $(document).ready(function(){
+            $('#p1').append('Mango');
+            $('#p2').append('Apple',' s');
+            $('#pre1').append('Apple is better than Mango');
+            $('#pre2').append('Apple is Healthy'); 
+            
+            //$('#p1').before('one');
+            //$('#p2').before('Two');
+
+            $('#p1').after('is present in bag');
+            $('#p2').after('are present in same bag');
+
+            $('#p1').prepend('one  ');
+            $('#p2').prepend('Two  ');
+
+            $('p1').wrap('<p></p>');
+            
+            //$('<span>Apple s are very costly</span>').replaceAll('p');
+
+            $('#pre1').remove();
+        });
+    </script>
+    
+</body>
+</html>
