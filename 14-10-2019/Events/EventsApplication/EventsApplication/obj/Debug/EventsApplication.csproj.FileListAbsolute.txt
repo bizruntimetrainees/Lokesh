@@ -1,0 +1,6 @@
+C:\Users\C LOKESH\source\repos\EventsApplication\EventsApplication\bin\Debug\EventsApplication.exe.config
+C:\Users\C LOKESH\source\repos\EventsApplication\EventsApplication\bin\Debug\EventsApplication.exe
+C:\Users\C LOKESH\source\repos\EventsApplication\EventsApplication\bin\Debug\EventsApplication.pdb
+C:\Users\C LOKESH\source\repos\EventsApplication\EventsApplication\obj\Debug\EventsApplication.csprojAssemblyReference.cache
+C:\Users\C LOKESH\source\repos\EventsApplication\EventsApplication\obj\Debug\EventsApplication.exe
+C:\Users\C LOKESH\source\repos\EventsApplication\EventsApplication\obj\Debug\EventsApplication.pdb
