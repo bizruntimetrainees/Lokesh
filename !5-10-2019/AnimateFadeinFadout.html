@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fadein Fadeout</title>
+    <script src="jquery.js"></script>
+    <style>
+        .image2 {
+            background-image: url("248241.jpg");
+            height: 1000px;
+            width: 1900px;
+			
+        }
+        .image1 {
+            background-image: url("248148.jpg");
+            height: 1000px;
+            width: 1900px;
+            display: none;
+        }
+		
+    </style>
+    <script>
+        $(document).ready(function()
+        {
+            $('#div2').fadeOut(5000,function()
+            {
+                $('#msgDiv').append('Fadeout() completed')
+            });
+            $('#div1').delay(5000)
+            $('#div1').fadeIn(5000,function()
+            {
+                $('#msgDiv').append('Fadein() completed.')
+            });
+            
+        });
+        
+    </script>
+</head>
+<body>
+        <h1>Fadein and Fadeout</h1>
+        <div id="msgDiv">
+        </div>
+        <div id="div1" class="image1">
+        </div>
+    
+        <div id="div2" class="image2">
+        </div>
+    
+</body>
+</html>

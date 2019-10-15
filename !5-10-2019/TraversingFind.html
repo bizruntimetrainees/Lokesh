@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="jquery.js">
+    </script>
+    <script>
+        $(document).ready(function () {
+
+		$('#btnShow').click(function(){
+				
+				$('#myDiv').find('p').each(function(index){
+					alert('index' + index + ', text: ' + $(this).text());
+				});
+
+            });
+            $('#btnshow').click(function(){
+				
+				$('#inrDiv').find('p').each(function(index){
+					alert('index' + index + ', text: ' + $(this).text());
+				});
+
+            });
+            $('#btnshows').click(function(){
+				
+				$('#outerDiv').find('p').each(function(index){
+					alert('index' + index + ', text: ' + $(this).text());
+				});
+
+			});
+			
+        });
+    </script>
+</head>
+<body>
+	<h1>find() method</h1>
+    <button id="btnShow">Find p elements</button>
+    <button id="btnshow">Find inner-p elements</button>
+    <button id="btnshows">Find outer-p elements</button>
+	<div>
+		<p>Houseflies don’t allow their short lifespans 
+            (14 days) to hinder their musical abilities. 
+            They always hum in the key of F.</p>
+	</div>
+	<div id="myDiv">
+		<p>
+                Ostriches can run faster than horses, 
+                and the male ostriches can roar like lions.
+		</p>
+		<div id="inrDiv">
+			<p>Bats are the only mammals that can fly, 
+                but wouldn’t it be awesome if humans could fly too?.</p>
+		</div>
+		<div>
+			<ul>
+				<li>First</li>
+				<li>Second</li>
+				<li>Third</li>
+			</ul>
+		</div>
+	</div>
+	<div id="outerDiv">
+		<p>Kangaroos use their tails for balance, 
+            so if you lift a kangaroo’s tail off the ground, 
+            it can’t hop.</p>
+	</div>
+</body>
+</html>

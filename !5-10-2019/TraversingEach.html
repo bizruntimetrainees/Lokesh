@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Document</title>
+    <script src="jquery.js"></script>
+    <script>
+            $(document).ready(function () {
+    
+            $('#btnShow').click(function(){
+                    
+                    $('pre').each(function (index) {
+                        alert('index: ' + index + ', text: ' + $(this).text());
+                    });
+            });
+            $('#btnshow').click(function(){
+                $('li').each(function (index) {
+                        alert('index: ' + index + ', text: ' + $(this).text());
+                    });
+    
+            });
+                
+            });
+        </script>
+</head>
+<body>
+        <h1>each() method</h1>
+        <button id="btnShow">Show pre elements</button>
+        <button id="btnshow">Show list elements</button>
+        <div>
+            <pre>The jQuery each() method iterates over each specified element 
+                (specified using selector) and executes callback function for each element.</pre>
+        </div>
+        <div id="myDiv">
+            <pre>
+                    To begin, specify a selector to get the reference of elements 
+                    and call each() method with callback function, which will be executed for each element.
+            </pre>
+            <div id="inrDiv">
+                <pre>This is third paragraph.</pre>
+            </div>
+            <div>
+                <ul>
+                    <li>First</li>
+                    <li>Second</li>
+                    <li>Third</li>
+                </ul>
+            </div>
+        </div>
+        <div>
+            <pre>This is fourth paragraph.</pre>
+        </div>
+</body>
+</html>
