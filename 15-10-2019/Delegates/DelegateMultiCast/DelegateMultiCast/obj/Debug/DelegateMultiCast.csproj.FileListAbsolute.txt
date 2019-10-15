@@ -1,0 +1,6 @@
+C:\Users\C LOKESH\source\repos\DelegateMultiCast\DelegateMultiCast\bin\Debug\DelegateMultiCast.exe.config
+C:\Users\C LOKESH\source\repos\DelegateMultiCast\DelegateMultiCast\bin\Debug\DelegateMultiCast.exe
+C:\Users\C LOKESH\source\repos\DelegateMultiCast\DelegateMultiCast\bin\Debug\DelegateMultiCast.pdb
+C:\Users\C LOKESH\source\repos\DelegateMultiCast\DelegateMultiCast\obj\Debug\DelegateMultiCast.csprojAssemblyReference.cache
+C:\Users\C LOKESH\source\repos\DelegateMultiCast\DelegateMultiCast\obj\Debug\DelegateMultiCast.exe
+C:\Users\C LOKESH\source\repos\DelegateMultiCast\DelegateMultiCast\obj\Debug\DelegateMultiCast.pdb

@@ -1,0 +1,6 @@
+C:\Users\C LOKESH\source\repos\DelegateApplication\DelegateApplication\bin\Debug\DelegateApplication.exe.config
+C:\Users\C LOKESH\source\repos\DelegateApplication\DelegateApplication\bin\Debug\DelegateApplication.exe
+C:\Users\C LOKESH\source\repos\DelegateApplication\DelegateApplication\bin\Debug\DelegateApplication.pdb
+C:\Users\C LOKESH\source\repos\DelegateApplication\DelegateApplication\obj\Debug\DelegateApplication.csprojAssemblyReference.cache
+C:\Users\C LOKESH\source\repos\DelegateApplication\DelegateApplication\obj\Debug\DelegateApplication.exe
+C:\Users\C LOKESH\source\repos\DelegateApplication\DelegateApplication\obj\Debug\DelegateApplication.pdb

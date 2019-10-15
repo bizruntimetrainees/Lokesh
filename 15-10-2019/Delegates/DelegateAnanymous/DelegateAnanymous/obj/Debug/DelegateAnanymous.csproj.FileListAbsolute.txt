@@ -1,0 +1,6 @@
+C:\Users\C LOKESH\source\repos\DelegateAnanymous\DelegateAnanymous\bin\Debug\DelegateAnanymous.exe.config
+C:\Users\C LOKESH\source\repos\DelegateAnanymous\DelegateAnanymous\bin\Debug\DelegateAnanymous.exe
+C:\Users\C LOKESH\source\repos\DelegateAnanymous\DelegateAnanymous\bin\Debug\DelegateAnanymous.pdb
+C:\Users\C LOKESH\source\repos\DelegateAnanymous\DelegateAnanymous\obj\Debug\DelegateAnanymous.csprojAssemblyReference.cache
+C:\Users\C LOKESH\source\repos\DelegateAnanymous\DelegateAnanymous\obj\Debug\DelegateAnanymous.exe
+C:\Users\C LOKESH\source\repos\DelegateAnanymous\DelegateAnanymous\obj\Debug\DelegateAnanymous.pdb
