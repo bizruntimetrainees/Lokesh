@@ -1,0 +1,6 @@
+C:\Users\C LOKESH\source\repos\File-Input-Output\File-Input-Output\bin\Debug\File-Input-Output.exe.config
+C:\Users\C LOKESH\source\repos\File-Input-Output\File-Input-Output\bin\Debug\File-Input-Output.exe
+C:\Users\C LOKESH\source\repos\File-Input-Output\File-Input-Output\bin\Debug\File-Input-Output.pdb
+C:\Users\C LOKESH\source\repos\File-Input-Output\File-Input-Output\obj\Debug\File-Input-Output.csprojAssemblyReference.cache
+C:\Users\C LOKESH\source\repos\File-Input-Output\File-Input-Output\obj\Debug\File-Input-Output.exe
+C:\Users\C LOKESH\source\repos\File-Input-Output\File-Input-Output\obj\Debug\File-Input-Output.pdb
