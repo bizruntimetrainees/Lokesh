@@ -1,0 +1,14 @@
+var t:[number,string,number] = [1,"lokesh",11500];
+console.log(t);
+console.log("--------------------------------");
+console.log(typeof(t));
+console.log("--------------------------------");
+t.push(2,"Karishma",11500);
+console.log(t);
+console.log("--------------------------------");
+console.log(t.pop());
+console.log(t);
+console.log("--------------------------------");
+t.push(11500);
+console.log(t);
+console.log("--------------------------------");
