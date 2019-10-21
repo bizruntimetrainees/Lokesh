@@ -1,0 +1,6 @@
+C:\Users\C LOKESH\source\repos\SynchronousClientSocket\SynchronousClientSocket\bin\Debug\SynchronousClientSocket.exe.config
+C:\Users\C LOKESH\source\repos\SynchronousClientSocket\SynchronousClientSocket\bin\Debug\SynchronousClientSocket.exe
+C:\Users\C LOKESH\source\repos\SynchronousClientSocket\SynchronousClientSocket\bin\Debug\SynchronousClientSocket.pdb
+C:\Users\C LOKESH\source\repos\SynchronousClientSocket\SynchronousClientSocket\obj\Debug\SynchronousClientSocket.csprojAssemblyReference.cache
+C:\Users\C LOKESH\source\repos\SynchronousClientSocket\SynchronousClientSocket\obj\Debug\SynchronousClientSocket.exe
+C:\Users\C LOKESH\source\repos\SynchronousClientSocket\SynchronousClientSocket\obj\Debug\SynchronousClientSocket.pdb
