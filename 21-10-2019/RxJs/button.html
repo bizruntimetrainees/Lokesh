@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Document</title>
+   <script src="https://unpkg.com/@reactivex/rxjs@5.5.7/dist/global/Rx.js"></script>
+</head>
+<body>
+    <button id="the-button">click me</button>
+    <script>
+        var button = document.getElementById('the-button');
+
+        var Observable = Rx.Observable.create( o => {
+            button.addEventListener('click',()=>{
+                o.next('button was clicked');
+                
+            });
+        });
+        Observable.subscribe(value => console.log(value));
+    </script>
+
+</body>
+</html>
