@@ -1,0 +1,1 @@
+{"Name":"Apple","ExpiryDate":new Date(1571769000000),"Price":3.99,"Sizes":["Small","Medium","Large"]}

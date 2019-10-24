@@ -1,0 +1,9 @@
+C:\Users\C LOKESH\source\repos\Task1\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\C LOKESH\source\repos\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\C LOKESH\source\repos\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\C LOKESH\source\repos\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\C LOKESH\source\repos\Task1\Task1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\C LOKESH\source\repos\Task1\Task1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\C LOKESH\source\repos\Task1\Task1\obj\Debug\Task1.csproj.CopyComplete
+C:\Users\C LOKESH\source\repos\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\C LOKESH\source\repos\Task1\Task1\obj\Debug\Task1.pdb

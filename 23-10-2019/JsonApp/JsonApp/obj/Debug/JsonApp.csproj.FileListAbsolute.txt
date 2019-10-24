@@ -1,0 +1,9 @@
+C:\Users\C LOKESH\source\repos\JsonApp\JsonApp\bin\Debug\JsonApp.exe.config
+C:\Users\C LOKESH\source\repos\JsonApp\JsonApp\bin\Debug\JsonApp.exe
+C:\Users\C LOKESH\source\repos\JsonApp\JsonApp\bin\Debug\JsonApp.pdb
+C:\Users\C LOKESH\source\repos\JsonApp\JsonApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\C LOKESH\source\repos\JsonApp\JsonApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\C LOKESH\source\repos\JsonApp\JsonApp\obj\Debug\JsonApp.csprojAssemblyReference.cache
+C:\Users\C LOKESH\source\repos\JsonApp\JsonApp\obj\Debug\JsonApp.csproj.CopyComplete
+C:\Users\C LOKESH\source\repos\JsonApp\JsonApp\obj\Debug\JsonApp.exe
+C:\Users\C LOKESH\source\repos\JsonApp\JsonApp\obj\Debug\JsonApp.pdb
