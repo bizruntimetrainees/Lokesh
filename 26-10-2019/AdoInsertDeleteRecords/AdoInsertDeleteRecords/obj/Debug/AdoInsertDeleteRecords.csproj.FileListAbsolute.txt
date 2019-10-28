@@ -1,0 +1,6 @@
+C:\Users\C LOKESH\source\repos\AdoInsertDeleteRecords\AdoInsertDeleteRecords\bin\Debug\AdoInsertDeleteRecords.exe.config
+C:\Users\C LOKESH\source\repos\AdoInsertDeleteRecords\AdoInsertDeleteRecords\bin\Debug\AdoInsertDeleteRecords.exe
+C:\Users\C LOKESH\source\repos\AdoInsertDeleteRecords\AdoInsertDeleteRecords\bin\Debug\AdoInsertDeleteRecords.pdb
+C:\Users\C LOKESH\source\repos\AdoInsertDeleteRecords\AdoInsertDeleteRecords\obj\Debug\AdoInsertDeleteRecords.csprojAssemblyReference.cache
+C:\Users\C LOKESH\source\repos\AdoInsertDeleteRecords\AdoInsertDeleteRecords\obj\Debug\AdoInsertDeleteRecords.exe
+C:\Users\C LOKESH\source\repos\AdoInsertDeleteRecords\AdoInsertDeleteRecords\obj\Debug\AdoInsertDeleteRecords.pdb

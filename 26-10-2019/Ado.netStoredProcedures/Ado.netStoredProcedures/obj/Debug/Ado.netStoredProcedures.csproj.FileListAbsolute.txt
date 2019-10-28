@@ -1,0 +1,6 @@
+C:\Users\C LOKESH\source\repos\Ado.netStoredProcedures\Ado.netStoredProcedures\bin\Debug\Ado.netStoredProcedures.exe.config
+C:\Users\C LOKESH\source\repos\Ado.netStoredProcedures\Ado.netStoredProcedures\bin\Debug\Ado.netStoredProcedures.exe
+C:\Users\C LOKESH\source\repos\Ado.netStoredProcedures\Ado.netStoredProcedures\bin\Debug\Ado.netStoredProcedures.pdb
+C:\Users\C LOKESH\source\repos\Ado.netStoredProcedures\Ado.netStoredProcedures\obj\Debug\Ado.netStoredProcedures.csprojAssemblyReference.cache
+C:\Users\C LOKESH\source\repos\Ado.netStoredProcedures\Ado.netStoredProcedures\obj\Debug\Ado.netStoredProcedures.exe
+C:\Users\C LOKESH\source\repos\Ado.netStoredProcedures\Ado.netStoredProcedures\obj\Debug\Ado.netStoredProcedures.pdb
