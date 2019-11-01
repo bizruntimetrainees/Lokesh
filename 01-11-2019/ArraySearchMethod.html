@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <title>Search</title>
+</head>
+<body>
+    <script>
+        var num = [{one:34},{two:56},{one:87},{three:56},{one:12}]
+        var num2 =[1,2,3,4,5,6]
+
+
+        console.log("Scan : "+d3.scan(num,function(a,b){return a.one - b.one;}));
+        console.log("Scan : "+d3.scan(num,function(a,b){return b.one - a.one;}));
+
+        console.log("Ascending : "+d3.scan(num,function ascending(a, b) {
+            return a < b ? -1 : a > b ? 1 : a >=  b ? 0 : NaN;
+            }));
+        console.log("Descending : "+d3.scan(num,function descending(a, b) {
+            return a < b ? -1 : a > b ? 1 : a >=  b ? 0 : NaN;
+            }));
+        
+        console.log("Bisect right() : "+d3.bisectRight(num2,1.5));
+        console.log(num2);
+        console.log("Bisect Left : "+d3.bisectLeft(num2,56));
+        console.log(num2);
+        
+        
+        
+    </script>
+</body>
+</html>
